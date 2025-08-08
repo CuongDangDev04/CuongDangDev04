@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Cuong Dang
+# Hi there 👋, I'm CuongDangDev04
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -39,12 +39,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on projects involving **Web Development, API Design, and Cloud Deployment.**
-- 🌱 I’m continuously learning about **Machine Learning** and **Modern Frontend Frameworks** like Angular and React.
-- 👯 I’m open to collaborating on open-source projects related to **Full-stack development** and **Real-time apps** using WebSocket.
-- 💬 Ask me about **JavaScript, TypeScript, Node.js, .NET Core, and DevOps**.
-- 📫 How to reach me: [Email](mailto:cuongdang@example.com) | [LinkedIn](https://linkedin.com/in/cuongdangdev) | [Twitter](https://twitter.com/cuongdangdev)
-- ⚡ Fun fact: I love exploring new technologies and optimizing developer workflows.
+- 👨‍💻 I'm currently an **Intern Fullstack Developer**, eager to learn and grow my skills in both frontend and backend technologies.
+- 🌱 Actively exploring and improving knowledge in **JavaScript**, **TypeScript**, **React**, **Node.js**, and **.NET Core**.
+- 💡 Passionate about building real-world projects and gaining hands-on experience in web development.
+- ⚡ Always excited to learn new technologies and contribute to meaningful projects.
 
 ---
 
