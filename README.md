@@ -65,9 +65,9 @@
 ## 📌 Featured Projects
 | Project | Description | Tech Stack | Link |
 | ------- | ----------- | ---------- | ---- |
-| [lms-project](https://github.com/CuongDangDev04/lms-project) | Learning Management System for online courses and training | React, Express, MySQL, Socket.io | GitHub |
-| [movie-project](https://github.com/CuongDangDev04/movie-project) | Movie search and streaming app using external APIs | Next.js | GitHub |
-| [social-network-project](https://github.com/CuongDangDev04/social-network-project) | Social networking app with real-time chat, video call, and Google OAuth2 | Next.js, NestJS, MySQL, Socket.io, WebRTC, Google OAuth2, Zustand | GitHub |
+| lms-sentiment-analysis | Learning Management System with sentiment analysis for soft skills training | Angular, Node.js, Express, MySQL, Machine Learning | [GitHub](https://github.com/CuongDangDev04/lms-sentiment-analysis) |
+| lms-project | Learning Management System for online courses and training | React, Express, MySQL, Socket.io | [GitHub](https://github.com/CuongDangDev04/lms-project) |
+| social-network-project | Social networking app with real-time chat, video/audio call, and Google OAuth2 | Next.js, NestJS, MySQL, Socket.io, WebRTC, Google OAuth2, Zustand | [Client](https://github.com/CuongDangDev04/social-network-client) / [Server](https://github.com/CuongDangDev04/social-network-server) |
 
 ---
 
