@@ -46,8 +46,6 @@
 
 ## 📊 GitHub Stats:
 
-![CuongDangDev04's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuongDangDev04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![CuongDangDev04's Streak](https://nirzak-streak-stats.vercel.app/?user=CuongDangDev04&theme=dark&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuongDangDev04&theme=dark&hide_border=false&layout=compact)
@@ -75,10 +73,6 @@
 
 ---
 
-### ⚙️ GitHub Trophies
-![CuongDangDev04's GitHub trophies](https://github-profile-trophy.vercel.app/?username=CuongDangDev04&theme=dark&no-frame=true&no-bg=true&margin-w=5)
-
----
 
 **Thank you for visiting my profile! 😊**
 
